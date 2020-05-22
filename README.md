@@ -1,5 +1,7 @@
 # OCPIZZA_OC_P8
 
+# CONTEXTE
+
  OC Pizza » est un jeune groupe de pizzeria en plein essor et spécialisé dans les pizzas livrées
  ou à emporter. Il compte déjà 5 points de vente et prévoit d’en ouvrir au moins 3 de plus d’ici 
  la fin de l’année. 
@@ -17,3 +19,22 @@
 	- d’informer ou notifier les clients sur l’état de leur commande
  
  Le client a déjà fait une petite prospection et les logiciels existants qu’il a pu trouver ne lui conviennent pas.
+ 
+ # DEVELOPPEMENT
+ 
+ L'application a été développé en langage java.
+ 
+ Utilisation des outils suivants :
+ 
+ 	- Framework SPRING
+	- HTML/CSS/Javascript
+	- PostgreSQL
+	- Intellij IDEA
+
+# CONTENU DU REPOSITORY
+
+Le présent repository contient l'ensemble des livrables du projet.
+
+# AUTEUR
+
+M.COZ
